@@ -38,10 +38,10 @@ Typos, missing words, code samples with errors are all considered
 documentation bugs. If you spot one of them, or want to otherwise improve
 the existing guides, we are happy to help you help us!
 
-There are two more common ways to report a problem with the guides:
+Some of the more common ways to report a problem with the guides are:
 
 * Using the pencil icon on the top-right of each guide page
-* Opening an Issue/Sending a Pull Request to [the GitHub repository][gh-guides]
+* Opening an issue/pull request to [the GitHub repository][gh-guides]
 
 Clicking the the pencil icon will bring you to GitHub's editor for that
 guide so you can edit right away, using the Markdown markup language.
