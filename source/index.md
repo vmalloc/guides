@@ -50,7 +50,7 @@ a code sample.
 
 If you wish to make a more significant contribution be sure to check our
 [issue tracker][gh-guides-issues] to see if your issue is already being
-addressed, otherwise open a new one.
+addressed. If you don't find an active issue, open a new one.
 
 If you have any styling questions, or about the contributing process you
 can check out our [contributing guide][gh-guides-contributing]. If your
