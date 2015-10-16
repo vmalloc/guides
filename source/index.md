@@ -34,7 +34,7 @@ online.
 
 ## Reporting a problem
 
-Typos, missing words, code samples with errors, these are all considered
+Typos, missing words, code samples with errors are all considered
 documentation bugs. If you spot one of them, or want to otherwise improve
 the existing guides, we are happy to help you help us!
 
