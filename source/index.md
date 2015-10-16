@@ -22,9 +22,8 @@ a concept is introduced.
 
 To make the most out of the guides, you should have a working knowledge of:
 
-* **JavaScript** - the language that Ember.js is built with. You can find some
-documentation at the [Mozilla Developer Network][mdn-js]
-* **Promises** - a core concept to how Ember.js deals with asynchrony. [TDK: need a good link][promises]
+* **HTML, CSS, JavaScript** - the building blocks of web pages. You can find documentation of each of these technologies at the [Mozilla Developer Network][mdn]
+* **Promises** - the native way to deal with asynchrony in your JavaScript code. [TDK: need a good link][promises]
 * **ES2015 modules** - you will better understand Ember CLI's project structure and import paths if you are comfortable with [ES6 JavaScript Modules][js-modules]
 * **ES2015 syntax** - Ember CLI comes with Babel.js by default so you can
 take advantage of newer language features such as arrow functions, template
@@ -59,8 +58,8 @@ group.
 
 Good luck!
 
-[mdn-js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[promises]:
+[mdn]: https://developer.mozilla.org/en-US/docs/Web
+[promises]: TDK
 [js-modules]: http://jsmodules.io/
 [babeljs]: https://babeljs.io/docs/learn-es2015/
 [es6]: https://leanpub.com/understandinges6/read
